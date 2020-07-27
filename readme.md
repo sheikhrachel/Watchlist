@@ -18,11 +18,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 If you would like to contribute, create an 'apikey.py' file in the source folder and include your own RapidAPI key for it to call data correctly.  Be sure to add this file into your .gitignore before submitting a PR
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Contact
 ```python
 name  : 'Rachel Sheikh'
 email : 'sheikhrachel97@gmail.com'
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## TODO
+Fill out user prompts within recommendation lambda
+
+Build API data wrapper lambda to filter requests
+
+Create intents in Alexa Developer Console
